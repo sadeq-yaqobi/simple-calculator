@@ -18,13 +18,14 @@ body {
     width: 48px;
     height: 35px;
     margin: 4px 2px;
-    background-color: #F7C59F!important;
+    background-color: #F7C59F !important;
     color: #000 !important;
-    box-shadow: 0 0 2px  #403d39;
+    box-shadow: 0 0 2px #403d39;
     transition: .5s;
 }
-.btn-calc:hover{
-    background-color: #F4B07B!important;
+
+.btn-calc:hover {
+    background-color: #F4B07B !important;
 }
 
 .form-display {
@@ -44,6 +45,7 @@ body {
     outline: 0;
     transition: .5s;
 }
-.btn-equal:hover{
+
+.btn-equal:hover {
     background-color: #FF5A1F !important;
 }
