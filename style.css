@@ -1,8 +1,9 @@
 body {
-    background-color: #f7f0f0 !important;
+    background-color: #f7f0f0 ;
 }
 
 .calc {
+    width: 245px;
     padding: 10px;
     border-radius: 10px;
     background-color: #1ed5db;
@@ -14,24 +15,24 @@ body {
 }
 
 .btn-calc {
-    padding: 0 !important;
+    padding: 0 ;
     width: 48px;
     height: 35px;
     margin: 4px 2px;
-    background-color: #F7C59F !important;
-    color: #000 !important;
+    background-color: #F7C59F ;
+    color: #000 ;
     box-shadow: 0 0 2px #403d39;
     transition: .5s;
 }
 
 .btn-calc:hover {
-    background-color: #F4B07B !important;
+    background-color: #F4B07B;
 }
 
 .form-display {
     height: 150px;
     font-size: 25px;
-    background-color: #FFF0EB !important;
+    background-color: #FFF0EB ;
     outline: 0;
     border: 0;
     box-shadow: 0;
@@ -39,13 +40,13 @@ body {
 }
 
 .btn-equal {
-    width: 100% !important;
-    background-color: #ff6b35 !important;
-    color: #fff !important;
+    width: 100% ;
+    background-color: #ff6b35 ;
+    color: #fff ;
     outline: 0;
     transition: .5s;
 }
 
 .btn-equal:hover {
-    background-color: #FF5A1F !important;
+    background-color: #FF5A1F ;
 }
