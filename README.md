@@ -2,7 +2,6 @@
 
 This is a simple calculator web application that allows users to perform basic arithmetic calculations. Users can input numbers and perform operations such as addition, subtraction, multiplication, and division.
 
-## Simple Calculator
 
 Check out the simple calculator [here](https://sadeq-yaqobi.github.io/simple-calculator/).
 
